@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("heart-bg.jpg");
+    background-image: url("heart-bg.png");
     font-family: "Pixelify Sans", sans-serif;
 }
 
@@ -75,6 +75,7 @@ h1 {
 
 p {
     font-size: 40px;
+    color: #6D527E;
 }
 
 /* Cat */

@@ -61,6 +61,7 @@ noBtn.addEventListener("mouseover", () => {
 
 yesBtn.addEventListener("click", () => {
     title.textContent = "Yippeeee!";
+    title.style.color = "#6D527E";
 
     catImg.src = "cat_dance.gif";
 
